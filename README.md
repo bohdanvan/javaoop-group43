@@ -1,4 +1,4 @@
-Prog.kiev.ua. Java OOP. Группа 39
+Prog.kiev.ua. Java OOP. Группа 43
 ===
 
 ##Лекции 1-2 (03.10.2016)
