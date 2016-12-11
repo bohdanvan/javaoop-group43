@@ -1,4 +1,4 @@
-package com.bvan.javaoop.lessson1.dynamic_input.with_arraylist;
+package com.bvan.javaoop.lessons1_2.dynamic_input.with_arraylist;
 
 import java.util.ArrayList;
 import java.util.List;

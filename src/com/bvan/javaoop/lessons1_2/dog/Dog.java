@@ -1,4 +1,4 @@
-package com.bvan.javaoop.lessson1.dog;
+package com.bvan.javaoop.lessons1_2.dog;
 
 /**
  * @author bvanchuhov

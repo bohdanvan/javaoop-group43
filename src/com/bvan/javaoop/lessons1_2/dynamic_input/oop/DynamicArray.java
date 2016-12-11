@@ -1,4 +1,4 @@
-package com.bvan.javaoop.lessson1.dynamic_input.oop;
+package com.bvan.javaoop.lessons1_2.dynamic_input.oop;
 
 import java.util.Arrays;
 

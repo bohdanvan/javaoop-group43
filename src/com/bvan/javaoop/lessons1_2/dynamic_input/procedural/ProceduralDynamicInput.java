@@ -1,4 +1,4 @@
-package com.bvan.javaoop.lessson1.dynamic_input.procedural;
+package com.bvan.javaoop.lessons1_2.dynamic_input.procedural;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.bvan.javaoop.lessson1;
+package com.bvan.javaoop.lessons1_2;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.bvan.javaoop.lessson1.person.procedural;
+package com.bvan.javaoop.lessons1_2.person.procedural;
 
 /**
  * @author bvanchuhov
