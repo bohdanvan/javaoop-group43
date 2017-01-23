@@ -9,7 +9,7 @@ import java.util.List;
  */
 public class UserIORunner {
 
-    public static final String INPUT_FILE = "files/users.csv";
+    public static final String INPUT_FILE = "files/users-in.csv";
     public static final String OUTPUT_FILE = "files/users.out";
     public static final String BIN_FILE = "files/users.dat";
 

@@ -13,6 +13,8 @@ Prog.kiev.ua. Java OOP. Группа 43
 
 [Java OOP. Богдан. Группа 43. Лекции 9-10 (14.01.2017)](https://prog.kiev.ua/forum/index.php/topic,2713.0.html)
 
+[Java OOP. Богдан. Группа 43. Лекции 11-12 (21.01.2017)](https://prog.kiev.ua/forum/index.php/topic,2727.0.html)
+
 ## Примеры решения задач
 
 https://github.com/bohdanvan/javaoop
